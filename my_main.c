@@ -78,7 +78,7 @@ void my_main() {
 
   light[COLOR][RED] = 0;
   light[COLOR][GREEN] = 255;
-  light[COLOR][BLUE] = 255;
+  light[COLOR][BLUE] = 100;
 
   view[0] = 0;
   view[1] = 0;

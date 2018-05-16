@@ -4,7 +4,7 @@ LDFLAGS= -lm
 CC= gcc
 
 run: all
-	./mdl robot.mdl
+	./mdl myscript.mdl
 
 all: parser
 
